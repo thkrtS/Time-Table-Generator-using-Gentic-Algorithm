@@ -37,3 +37,5 @@ target_compile_options(fetchresch PUBLIC "${MYSQL_CFLAGS}")
 target_link_libraries(fetchresch "${MYSQL_LIBS}")
 #target_include_directories(main PRIVATE ${LIBMYSQLCLIENT_INCLUDE_DIRS})
 #target_link_libraries(main PRIVATE ${LIBMYSQLCLIENT_LIBRARIES})
+
+configure_file(../my.cnf "${CMAKE_CURRENT_BINARY_DIR}/my.cnf")
