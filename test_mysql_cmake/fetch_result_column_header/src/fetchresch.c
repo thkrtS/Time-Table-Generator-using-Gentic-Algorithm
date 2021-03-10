@@ -14,11 +14,12 @@ int main(int argc, char **argv) {
 		fprintf(stderr, "%s\n", mysql_error(connection));
 		exit(1);
 	}
+	mysql_options(connection, MYSQL_READ_DEFAULT_FILE, (void*)"./my.cnf");
 	if (!(mysql_real_connect(connection,
-					"127.0.0.1",
-					"",  // provide username
-					"",  // provide password
-					"",  // provide db name
+					NULL,
+					NULL,  // provide username
+					NULL,  // provide password
+					NULL,  // provide db name
 					0, NULL, 0))) {
 		finish_with_error(connection);
 	}
