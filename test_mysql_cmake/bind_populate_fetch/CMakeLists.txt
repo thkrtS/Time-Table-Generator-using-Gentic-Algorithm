@@ -1,4 +1,4 @@
-set(SOURCES src/fetchresch.c)
+set(SOURCES src/bindpopulatefetch.c)
 
 include_directories(src)
 
@@ -26,16 +26,17 @@ execute_process(
 #endforeach()
 
 #find_package(MySQL REQUIRED)
-add_executable(fetchresch "${SOURCES}")
+add_executable(bindpopfetch "${SOURCES}")
 #include_directories(${MySQL_INCLUDE_DIRS})
 #target_link_libraries(main ${MySQL_LIBRARIES})
 
 
 #link_directories(${LIBMYSQLCLIENT_LIBRARY_DIRS})
 
-target_compile_options(fetchresch PUBLIC "${MYSQL_CFLAGS}")
-target_link_libraries(fetchresch "${MYSQL_LIBS}")
+target_compile_options(bindpopfetch PUBLIC "${MYSQL_CFLAGS}")
+target_link_libraries(bindpopfetch "${MYSQL_LIBS}")
 #target_include_directories(main PRIVATE ${LIBMYSQLCLIENT_INCLUDE_DIRS})
 #target_link_libraries(main PRIVATE ${LIBMYSQLCLIENT_LIBRARIES})
 
 configure_file(../my.cnf "${CMAKE_CURRENT_BINARY_DIR}/my.cnf")
+configure_file(teachers_list.csv "${CMAKE_CURRENT_BINARY_DIR}/teachers_list.csv")
