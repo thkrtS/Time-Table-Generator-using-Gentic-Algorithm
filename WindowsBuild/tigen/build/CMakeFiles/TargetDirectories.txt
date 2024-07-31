@@ -1,0 +1,3 @@
+C:/Users/thkrt/OneDrive/Desktop/tigen/build/CMakeFiles/tigen.dir
+C:/Users/thkrt/OneDrive/Desktop/tigen/build/CMakeFiles/edit_cache.dir
+C:/Users/thkrt/OneDrive/Desktop/tigen/build/CMakeFiles/rebuild_cache.dir

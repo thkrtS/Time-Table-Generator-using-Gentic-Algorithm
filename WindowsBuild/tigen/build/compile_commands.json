@@ -1,0 +1,72 @@
+[
+{
+  "directory": "C:/Users/thkrt/OneDrive/Desktop/tigen/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/tigen.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\tigen.dir\\src\\extras\\extra_util.cpp.obj -c C:\\Users\\thkrt\\OneDrive\\Desktop\\tigen\\src\\extras\\extra_util.cpp",
+  "file": "C:/Users/thkrt/OneDrive/Desktop/tigen/src/extras/extra_util.cpp"
+},
+{
+  "directory": "C:/Users/thkrt/OneDrive/Desktop/tigen/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/tigen.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\tigen.dir\\src\\extras\\exception_util.cpp.obj -c C:\\Users\\thkrt\\OneDrive\\Desktop\\tigen\\src\\extras\\exception_util.cpp",
+  "file": "C:/Users/thkrt/OneDrive/Desktop/tigen/src/extras/exception_util.cpp"
+},
+{
+  "directory": "C:/Users/thkrt/OneDrive/Desktop/tigen/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/tigen.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\tigen.dir\\src\\data.cpp.obj -c C:\\Users\\thkrt\\OneDrive\\Desktop\\tigen\\src\\data.cpp",
+  "file": "C:/Users/thkrt/OneDrive/Desktop/tigen/src/data.cpp"
+},
+{
+  "directory": "C:/Users/thkrt/OneDrive/Desktop/tigen/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/tigen.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\tigen.dir\\src\\room.cpp.obj -c C:\\Users\\thkrt\\OneDrive\\Desktop\\tigen\\src\\room.cpp",
+  "file": "C:/Users/thkrt/OneDrive/Desktop/tigen/src/room.cpp"
+},
+{
+  "directory": "C:/Users/thkrt/OneDrive/Desktop/tigen/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/tigen.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\tigen.dir\\src\\course.cpp.obj -c C:\\Users\\thkrt\\OneDrive\\Desktop\\tigen\\src\\course.cpp",
+  "file": "C:/Users/thkrt/OneDrive/Desktop/tigen/src/course.cpp"
+},
+{
+  "directory": "C:/Users/thkrt/OneDrive/Desktop/tigen/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/tigen.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\tigen.dir\\src\\driver.cpp.obj -c C:\\Users\\thkrt\\OneDrive\\Desktop\\tigen\\src\\driver.cpp",
+  "file": "C:/Users/thkrt/OneDrive/Desktop/tigen/src/driver.cpp"
+},
+{
+  "directory": "C:/Users/thkrt/OneDrive/Desktop/tigen/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/tigen.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\tigen.dir\\src\\schedule.cpp.obj -c C:\\Users\\thkrt\\OneDrive\\Desktop\\tigen\\src\\schedule.cpp",
+  "file": "C:/Users/thkrt/OneDrive/Desktop/tigen/src/schedule.cpp"
+},
+{
+  "directory": "C:/Users/thkrt/OneDrive/Desktop/tigen/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/tigen.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\tigen.dir\\src\\sec_class.cpp.obj -c C:\\Users\\thkrt\\OneDrive\\Desktop\\tigen\\src\\sec_class.cpp",
+  "file": "C:/Users/thkrt/OneDrive/Desktop/tigen/src/sec_class.cpp"
+},
+{
+  "directory": "C:/Users/thkrt/OneDrive/Desktop/tigen/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/tigen.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\tigen.dir\\src\\class_time.cpp.obj -c C:\\Users\\thkrt\\OneDrive\\Desktop\\tigen\\src\\class_time.cpp",
+  "file": "C:/Users/thkrt/OneDrive/Desktop/tigen/src/class_time.cpp"
+},
+{
+  "directory": "C:/Users/thkrt/OneDrive/Desktop/tigen/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/tigen.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\tigen.dir\\src\\department.cpp.obj -c C:\\Users\\thkrt\\OneDrive\\Desktop\\tigen\\src\\department.cpp",
+  "file": "C:/Users/thkrt/OneDrive/Desktop/tigen/src/department.cpp"
+},
+{
+  "directory": "C:/Users/thkrt/OneDrive/Desktop/tigen/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/tigen.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\tigen.dir\\src\\instructor.cpp.obj -c C:\\Users\\thkrt\\OneDrive\\Desktop\\tigen\\src\\instructor.cpp",
+  "file": "C:/Users/thkrt/OneDrive/Desktop/tigen/src/instructor.cpp"
+},
+{
+  "directory": "C:/Users/thkrt/OneDrive/Desktop/tigen/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/tigen.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\tigen.dir\\src\\population.cpp.obj -c C:\\Users\\thkrt\\OneDrive\\Desktop\\tigen\\src\\population.cpp",
+  "file": "C:/Users/thkrt/OneDrive/Desktop/tigen/src/population.cpp"
+},
+{
+  "directory": "C:/Users/thkrt/OneDrive/Desktop/tigen/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/tigen.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\tigen.dir\\src\\genetic_algo.cpp.obj -c C:\\Users\\thkrt\\OneDrive\\Desktop\\tigen\\src\\genetic_algo.cpp",
+  "file": "C:/Users/thkrt/OneDrive/Desktop/tigen/src/genetic_algo.cpp"
+},
+{
+  "directory": "C:/Users/thkrt/OneDrive/Desktop/tigen/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/tigen.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\tigen.dir\\src\\main.cpp.obj -c C:\\Users\\thkrt\\OneDrive\\Desktop\\tigen\\src\\main.cpp",
+  "file": "C:/Users/thkrt/OneDrive/Desktop/tigen/src/main.cpp"
+}
+]

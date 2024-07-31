@@ -1,0 +1,4 @@
+C:/Users/thkrt/OneDrive/Desktop/tigen_gui/build/CMakeFiles/tigen_gui.dir
+C:/Users/thkrt/OneDrive/Desktop/tigen_gui/build/CMakeFiles/edit_cache.dir
+C:/Users/thkrt/OneDrive/Desktop/tigen_gui/build/CMakeFiles/rebuild_cache.dir
+C:/Users/thkrt/OneDrive/Desktop/tigen_gui/build/CMakeFiles/tigen_gui_autogen.dir
